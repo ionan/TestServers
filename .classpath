@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+  <classpathentry kind="src" path="src/test/java" output="target/test-classes" including="**/*.java"/>
+  <classpathentry kind="src" path="src/test/resources" output="target/test-classes" excluding="**/*.java"/>
+  <classpathentry kind="src" path="src/main/java" including="**/*.java"/>
+  <classpathentry kind="src" path="src/main/resources" excluding="**/*.java"/>
+  <classpathentry kind="output" path="target/classes"/>
+  <classpathentry kind="var" path="M2_REPO/javax/activation/activation/1.1/activation-1.1.jar"/>
+  <classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+  <classpathentry kind="var" path="M2_REPO/org/apache/sshd/sshd-core/0.14.0/sshd-core-0.14.0.jar"/>
+  <classpathentry kind="var" path="M2_REPO/org/slf4j/slf4j-api/1.6.4/slf4j-api-1.6.4.jar"/>
+  <classpathentry kind="var" path="M2_REPO/com/icegreen/greenmail/1.5.7/greenmail-1.5.7.jar"/>
+  <classpathentry kind="var" path="M2_REPO/com/sun/mail/javax.mail/1.5.6/javax.mail-1.5.6.jar"/>
+  <classpathentry kind="var" path="M2_REPO/junit/junit/4.12/junit-4.12.jar"/>
+  <classpathentry kind="var" path="M2_REPO/org/simplejavamail/simple-java-mail/5.0.3/simple-java-mail-5.0.3.jar"/>
+  <classpathentry kind="var" path="M2_REPO/com/github/bbottema/emailaddress-rfc2822/1.0.1/emailaddress-rfc2822-1.0.1.jar"/>
+  <classpathentry kind="var" path="M2_REPO/com/google/code/findbugs/jsr305/3.0.1/jsr305-3.0.1.jar"/>
+  <classpathentry kind="var" path="M2_REPO/commons-cli/commons-cli/1.4/commons-cli-1.4.jar"/>
+</classpath>
